@@ -1,5 +1,5 @@
 # Airline Analysis
-<img src ="https://github.com/user-attachments/assets/afff1cbb-b64b-432b-b43f-8a16ff22fcf9" width ="1000" height="600" alt="airline1">
+<img src ="https://github.com/user-attachments/assets/7e8e0119-01e3-43ba-a9be-ea18e2c05799" width ="1000" height="600" alt="airline1">
 
 ## Project Overview: 
 This project delves into a large-scale analysis of airline records, focusing on delays and cancellations. The objective was to explore the following key questions:
